@@ -1,7 +1,7 @@
 import React from 'react';
 
 import data from '../../data';
-import GroupsList from '../GroupsList/GroupsList';
+import Button from '../Button/Button';
 
 interface Props {}
 
@@ -9,7 +9,7 @@ interface State {
   groups: string[]
 }
 
-class App extends React.Component<Props, State> {
+class GroupsList extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
 
@@ -31,11 +31,14 @@ class App extends React.Component<Props, State> {
 
   render() {
     return (
-      <div>
-        {<GroupsList groups={this.state.groups} />}
+      <div className="groups">
+        <h1>Groups</h1>
+        <div className='grid'>
+          {this.state.groups.map((item, index) => <Button key={index} group={item} />)}
+        </div>
       </div>
     )
   }
 }
 
-export default App;
+export default GroupsList;

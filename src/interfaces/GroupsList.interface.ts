@@ -4,5 +4,6 @@ export interface Groups {
 
 export interface GroupProps {
   key: number,
-  group: string
+  group: string,
+  handleClick?: React.MouseEvent<HTMLElement>
 }
