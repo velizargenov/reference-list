@@ -1,0 +1,612 @@
+Script started on Sat Jul 20 14:30:29 2019
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md    [1m[36mnode_modules[39;49m[0m package.json [1m[36mpublic[39;49m[0m       script       [1m[36msrc[39;49m[0m          typescript   yarn.lock
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hrrun script[?1l>[?2004l
+]2;run script]1;runzsh: command not found: run
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004h../s script[1m [0m[0m [?1l>[?2004l
+]2;./script]1;./scriptzsh: permission denied: ./script
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hcchmod 700 script[?1l>[?2004l
+]2;chmod 700 script]1;chmod[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004h../script[1m [0m[0m [?1l>[?2004l
+]2;./script]1;./scripthello world
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hvvim script[1m [0m[0m [?1l>[?2004l
+]2;vim script]1;vim[?2004h[?1049h[?1h=[?2004h[1;58r[?12h[?12l[27m[29m[m[H[2J[?25l[58;1H"script" 3L, 30C[2;1H▽[6n[2;1H  [1;1H[>c]11;?[1;1H#!/bin/bash
+
+echo hello world
+[94m~                                                                                                                  [5;1H~                                                                                                                  [6;1H~                                                                                                                  [7;1H~                                                                                                                  [8;1H~                                                                                                                  [9;1H~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;1H~                                                                                                                  [29;1H~                                                                                                                  [30;1H~                                                                                                                  [31;1H~                                                                                                                  [32;1H~                                                                                                                  [33;1H~                                                                                                                  [34;1H~                                                                                                                  [35;1H~                                                                                                                  [36;1H~                                                                                                                  [37;1H~                                                                                                                  [38;1H~                                                                                                                  [39;1H~                                                                                                                  [40;1H~                                                                                                                  [41;1H~                                                                                                                  [42;1H~                                                                                                                  [43;1H~                                                                                                                  [44;1H~                                                                                                                  [45;1H~                                                                                                                  [46;1H~                                                                                                                  [47;1H~                                                                                                                  [48;1H~                                                                                                                  [49;1H~                                                                                                                  [50;1H~                                                                                                                  [51;1H~                                                                                                                  [52;1H~                                                                                                                  [53;1H~                                                                                                                  [54;1H~                                                                                                                  [55;1H~                                                                                                                  [56;1H~                                                                                                                  [57;1H~                                                                                                                  [1;1H[?25h[?12$p
+
+[mecho hello worl[?25l[58;1H[1m-- INSERT --[m[58;14H[K[3;16H[?25hd[?25l[4;1H[K[4;1H[?25h[?25l[5;1H[K[5;1H[?25h[?25lf[?25h[?25lo[?25h[?25lr[?25h[?25l [?25h[?25lf[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25l [?25h[?25li[?25h[?25ln[?25h[?25l [?25h[?25l*[?25h[?25l.[?25h[?25lj[?25h[?25ls[?25h[?25l[6;1H[K[6;1H[?25h[?25ld[?25h[?25lo[?25h[?25l [?25h[?25l[?25h[?25l[7;1H[K[7;1H[?25h[?25l[8;1H[K[8;1H[?25h[?25ld[?25h[?25lo[?25h[?25ln[?25h[?25le[?25h[7;1H[?25l[8C[?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25l[?25h[?25l[?25h[?25l[8C[?25h[?25l[?25h[?25l [?25h[?25l [?25h[?25lm[?25h[?25lv[?25h[?25l [?25h[?25l"[?25h[?25l$[?25h[?25lf[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25l"[?25h[?25l [?25h[?25l"[?25h[?25l$[?25h[?25lf[?25h[?25li[?25h[?25ll[?25h[?25le[?25h[?25l.[?25h[?25lt[?25h[?25ls[?25h[?25lx[?25h[?25l"[?25h[58;1H[K[7;24H[?25l[?25h[?25l[58;1H:[?2004h[?25hwq[?25l[?2004l"script" 8L, 81C written
+[?2004l[?1l>[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hvim script[10D./script  [?1l>[?2004l
+]2;./script]1;./scripthello world
+mv: rename *.js to *.js.tsx: No such file or directory
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md    [1m[36mnode_modules[39;49m[0m package.json [1m[36mpublic[39;49m[0m       [31mscript[39;49m[0m       [1m[36msrc[39;49m[0m          typescript   yarn.lock
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hmmv script[1m [0m[0m src[?1l>[?2004l
+]2;mv script src]1;mv[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsREADME.md    [1m[36mnode_modules[39;49m[0m package.json [1m[36mpublic[39;49m[0m       [1m[36msrc[39;49m[0m          typescript   yarn.lock
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list]1;..eference-list[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[55C[38;5;237mvelizargenov@velizargenov[00m[80D[?1h=[?2004hccd src[1m/[0m[0m [?1l>[?2004l
+]2;cd src]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mcomponents[39;49m[0m data.js    index.css  index.js   [31mscript[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004h../script[1m [0m[0m [?1l>[?2004l
+]2;./script]1;./scripthello world
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mcomponents[39;49m[0m   data.js.tsx  index.css    index.js.tsx [31mscript[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hls./script[8Dls      ./script[8Dls      cd srcls    mv script src[13Dls           [11D./script[8Dvim script[?1l>[?2004l
+]2;vim script]1;vim[?2004h[?1049h[?1h=[?2004h[1;58r[?12h[?12l[27m[29m[m[H[2J[?25l[58;1H"script" 8L, 81C[2;1H▽[6n[2;1H  [1;1H[>c]11;?[1;1H#!/bin/bash
+
+echo hello world
+
+for file in *.js
+do
+  mv "$file" "$file.tsx"
+done
+[94m~                                                                                                                  [10;1H~                                                                                                                  [11;1H~                                                                                                                  [12;1H~                                                                                                                  [13;1H~                                                                                                                  [14;1H~                                                                                                                  [15;1H~                                                                                                                  [16;1H~                                                                                                                  [17;1H~                                                                                                                  [18;1H~                                                                                                                  [19;1H~                                                                                                                  [20;1H~                                                                                                                  [21;1H~                                                                                                                  [22;1H~                                                                                                                  [23;1H~                                                                                                                  [24;1H~                                                                                                                  [25;1H~                                                                                                                  [26;1H~                                                                                                                  [27;1H~                                                                                                                  [28;1H~                                                                                                                  [29;1H~                                                                                                                  [30;1H~                                                                                                                  [31;1H~                                                                                                                  [32;1H~                                                                                                                  [33;1H~                                                                                                                  [34;1H~                                                                                                                  [35;1H~                                                                                                                  [36;1H~                                                                                                                  [37;1H~                                                                                                                  [38;1H~                                                                                                                  [39;1H~                                                                                                                  [40;1H~                                                                                                                  [41;1H~                                                                                                                  [42;1H~                                                                                                                  [43;1H~                                                                                                                  [44;1H~                                                                                                                  [45;1H~                                                                                                                  [46;1H~                                                                                                                  [47;1H~                                                                                                                  [48;1H~                                                                                                                  [49;1H~                                                                                                                  [50;1H~                                                                                                                  [51;1H~                                                                                                                  [52;1H~                                                                                                                  [53;1H~                                                                                                                  [54;1H~                                                                                                                  [55;1H~                                                                                                                  [56;1H~                                                                                                                  [57;1H~                                                                                                                  [1;1H[?25h[?12$p
+
+
+
+
+
+[m  mv "$file" "$file.tsxxxx[6;2H[5;16Hj[?25l[58;1H[1m-- INSERT --[m[58;14H[K[5;16H[?25hs[?25l.[?25h[?25lt[?25h[?25ls[?25h[?25lx[?25h
+do[7;21H "$filff[?25l[ile" "$file.tsx"[7;10H[?25h[?25lile" "$file.tsx"[7;25H[K[7;9H[?25h[?25l{file" "$file.tsx"[7;9H[?25hfile"[?25l/" "$file.tsx"[7;14H[?25h[?25l/" "$file.tsx"[7;15H[?25h[?25l." "$file.tsx"[7;16H[?25h[?25lj" "$file.tsx"[7;17H[?25h[?25ls" "$file.tsx"[7;18H[?25h" "$file.tsx"[?25l[7;30H[K[7;30H[?25h[?25l[7;29H[K[7;29H[?25h[?25l[7;28H[K[7;28H[?25h[?25l[7;27H[K[7;27H[?25h[?25l[7;26H[K[7;26H[?25h[?25l[7;25H[K[7;25H[?25h[?25l[7;24H[K[7;24H[?25h[?25l[7;23H[K[7;23H[?25h[?25l[7;22H[K[7;22H[?25h[?25l[7;21H[K[7;21H[?25h[?25l[7;20H[K[7;20H[?25h[?25l[?25h[?25l[7;8H[46m{[9C}[m"[?25h[?25l[7;8H{[9C}"[?25h[58;1H[K[7;19H[?25l[?25h[?25l[58;1H:[?2004h[?25hwq[?25l[?2004l"script" 8L, 80C written
+[?2004l[?1l>[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hvim script[10Dls        [8D./script[?1l>[?2004l
+]2;./script]1;./scripthello world
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+usage: mv [-f | -i | -n] [-v] source target
+       mv [-f | -i | -n] [-v] source ... directory
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mcomponents[39;49m[0m   data.js.tsx  index.css    index.js.tsx [31mscript[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hccd components[1m/[0m[0m [?1l>[?2004l
+]2;cd components]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApp[39;49m[0m       [1m[36mItem[39;49m[0m      [1m[36mItemsList[39;49m[0m [1m[36mNotFound[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hccd apApp[1m/[0m[0m [?1l>[?2004l
+]2;cd App]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/App]1;..omponents/App[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/App[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[36C[38;5;237mvelizargenov@velizargenov[00m[61D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsApp.css     App.js      App.test.js
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/App]1;..omponents/App[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/App[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[36C[38;5;237mvelizargenov@velizargenov[00m[61D[?1h=[?2004hoopen .[?1l>[?2004l
+]2;open .]1;open[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/App]1;..omponents/App[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/App[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[36C[38;5;237mvelizargenov@velizargenov[00m[61D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsApp.css      App.test.tsx App.tsx
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/App]1;..omponents/App[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/App[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[36C[38;5;237mvelizargenov@velizargenov[00m[61D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsApp.css      App.test.tsx App.tsx
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/App]1;..omponents/App[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/App[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[36C[38;5;237mvelizargenov@velizargenov[00m[61D[?1h=[?2004hccd ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApp[39;49m[0m       [1m[36mItem[39;49m[0m      [1m[36mItemsList[39;49m[0m [1m[36mNotFound[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hccd и Item[?1l>[?2004l
+]2;cd Item]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/Item]1;..mponents/Item[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/Item[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[35C[38;5;237mvelizargenov@velizargenov[00m[60D[?1h=[?2004hoopen .[?1l>[?2004l
+]2;open .]1;open[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/Item]1;..mponents/Item[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/Item[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[35C[38;5;237mvelizargenov@velizargenov[00m[60D[?1h=[?2004hccd ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004h               [8Ds lls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApp[39;49m[0m       [1m[36mItem[39;49m[0m      [1m[36mItemsList[39;49m[0m [1m[36mNotFound[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hccd Item
+[J[1;31mItem[0m/       [J[1;31mItemsList[0m/[J[A[0m[27m[24m[49Ccd Item[K[33C[38;5;237mvelizargenov@velizargenov[00m[58D[?1l>[?2004l
+[J]2;cd Item]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/Item]1;..mponents/Item[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/Item[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[35C[38;5;237mvelizargenov@velizargenov[00m[60D[?1h=[?2004hccd TI  ItemL[?1l>[?2004l
+]2;cd ItemL]1;cdcd: no such file or directory: ItemL
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/Item]1;..mponents/Item[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/Item[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[35C[38;5;237mvelizargenov@velizargenov[00m[60D[?1h=[?2004hccd Items     c  ccd .../[?1l>[?2004l
+]2;cd .../]1;cdcd: no such file or directory: .../
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/Item]1;..mponents/Item[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/Item[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[35C[38;5;237mvelizargenov@velizargenov[00m[60D[?1h=[?2004hccd Items§      c  ccd[?1l>[?2004l
+]2;cd]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~]1;~[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~ [38;5;105m»[00m [K[85C[38;5;237mvelizargenov@velizargenov[00m[110D[?1h=[?2004hccd Repos[1m/[0m[0m/reference-list[1m/[0m[0m/src[1m/[0m[0m/components[1m/[0m[0m [?1l>[?2004l
+]2;cd Repos/reference-list/src/components]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApp[39;49m[0m       [1m[36mItem[39;49m[0m      [1m[36mItemsList[39;49m[0m [1m[36mNotFound[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hccd ItemsList[1m/[0m[0m [?1l>[?2004l
+]2;cd ItemsList]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/ItemsList]1;..nts/ItemsList[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/ItemsList[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[30C[38;5;237mvelizargenov@velizargenov[00m[55D[?1h=[?2004hoopen .[?1l>[?2004l
+]2;open .]1;open[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/ItemsList]1;..nts/ItemsList[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/ItemsList[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[30C[38;5;237mvelizargenov@velizargenov[00m[55D[?1h=[?2004hccd ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hccd notN[2CFound[1m/[0m[0m [?1l>[?2004l
+]2;cd NotFound]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/NotFound]1;..ents/NotFound[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/NotFound[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[31C[38;5;237mvelizargenov@velizargenov[00m[56D[?1h=[?2004hoopen .[?1l>[?2004l
+]2;open .]1;open[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components/NotFound]1;..ents/NotFound[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components/NotFound[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[31C[38;5;237mvelizargenov@velizargenov[00m[56D[?1h=[?2004hccd ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mApp[39;49m[0m       [1m[36mItem[39;49m[0m      [1m[36mItemsList[39;49m[0m [1m[36mNotFound[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src/components]1;..rc/components[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src/components[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[40C[38;5;237mvelizargenov@velizargenov[00m[65D[?1h=[?2004hccd ;..   ../[?1l>[?2004l
+]2;cd ../]1;cd[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mcomponents[39;49m[0m   data.js.tsx  index.css    index.js.tsx [31mscript[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hrrnr  ccat script[1m [0m[0m [?1l>[?2004l
+]2;cat script]1;cat#!/bin/bash
+
+echo hello world
+
+for file in *.js.tsx
+do
+  mv "${file//.js}"
+done
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hmmv data.js.tsx[1m [0m[0m data.js[?1l>[?2004l
+]2;mv data.js.tsx data.js]1;mv[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mcomponents[39;49m[0m   data.js      index.css    index.js.tsx [31mscript[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hmmv index.js.tsx[1m [0m[0m index.tsx[?1l>[?2004l
+]2;mv index.js.tsx index.tsx]1;mv[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[1m[36mcomponents[39;49m[0m data.js    index.css  index.tsx  [31mscript[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hyyarn start[?1l>[?2004l
+]2;yarn start]1;yarn[2K[1G[1myarn run v1.13.0[22m
+[2K[1G[2m$ react-scripts start[22m
+[33mWe detected TypeScript in your project ([1msrc/index.tsx[22m) and created a [1mtsconfig.json[22m file for you.[39m
+
+[1mYour [36mtsconfig.json[39m has been populated with default values.[22m
+
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+=============
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by typescript-estree.
+
+You may find that it works just fine, or you may not.
+
+SUPPORTED TYPESCRIPT VERSIONS: >=3.2.1 <3.5.0
+
+YOUR TYPESCRIPT VERSION: 3.5.3
+
+Please only submit bug reports when using the officially supported version.
+
+=============
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/index.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/index.tsx(3,46)[39m[22m[31m:[39m
+Could not find a declaration file for module 'react-router-dom'. '/Users/velizargenov/Repos/reference-list/node_modules/react-router-dom/index.js' implicitly has an 'any' type.
+  Try `npm install @types/react-router-dom` if it exists or add a new declaration (.d.ts) file containing `declare module 'react-router-dom';`  [31m[4mTS7016[24m[39m
+
+  [0m [90m 1 | [39m[36mimport[39m [33mReact[39m from [32m'react'[39m[33m;[39m[0m
+  [0m [90m 2 | [39m[36mimport[39m { render } from [32m'react-dom'[39m[33m;[39m[0m
+  [0m[31m[1m>[22m[39m[90m 3 | [39m[36mimport[39m { [33mBrowserRouter[39m[33m,[39m [33mRoute[39m[33m,[39m [33mSwitch[39m } from [32m'react-router-dom'[39m[33m;[39m[0m
+  [0m [90m   | [39m                                             [31m[1m^[22m[39m[0m
+  [0m [90m 4 | [39m[0m
+  [0m [90m 5 | [39m[36mimport[39m [32m'./index.css'[39m[33m;[39m[0m
+  [0m [90m 6 | [39m[36mimport[39m [33mApp[39m from [32m'./components/App/App'[39m[33m;[39m[0m
+^C
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004h[H[2J[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76Dyyarn install[?1l>[?2004l
+]2;yarn install]1;yarn[2K[1G[1myarn install v1.13.0[22m
+[2K[1G[2m[1/4][22m 🔍  Resolving packages...
+[1G⠁ [0K[2K[1G[2K[1G[2m[2/4][22m 🚚  Fetching packages...
+[2K[1G[1G[---------------------------------------------------------------------------------------------------------] 0/1318[1G[########------------------------------------------------------------------------------------------------] 98/1318[1G[#################--------------------------------------------------------------------------------------] 216/1318[1G[#########################------------------------------------------------------------------------------] 319/1318[1G[####################################-------------------------------------------------------------------] 467/1318[1G[##############################################---------------------------------------------------------] 588/1318[1G[######################################################-------------------------------------------------] 697/1318[1G[##################################################################-------------------------------------] 840/1318[1G[##############################################################################-------------------------] 998/1318[1G[#######################################################################################---------------] 1127/1318[1G[###################################################################################################---] 1275/1318[2K[1G[2m[3/4][22m 🔗  Linking dependencies...
+[1G[######################################################################################################] 1318/1318[2K[1G[2K[1G[1G[---------------------------------------------------------------------------------------------------------] 0/1492[2K[1G[2K[1G[1G[--------------------------------------------------------------------------------------------------------] 0/30654[1G[#-----------------------------------------------------------------------------------------------------] 256/30654[1G[#-----------------------------------------------------------------------------------------------------] 384/30654[1G[##----------------------------------------------------------------------------------------------------] 636/30654[1G[###---------------------------------------------------------------------------------------------------] 891/30654[1G[####-------------------------------------------------------------------------------------------------] 1147/30654[1G[#####------------------------------------------------------------------------------------------------] 1427/30654[1G[#####------------------------------------------------------------------------------------------------] 1656/30654[1G[######-----------------------------------------------------------------------------------------------] 1910/30654[1G[#######----------------------------------------------------------------------------------------------] 2159/30654[1G[########---------------------------------------------------------------------------------------------] 2415/30654[1G[#########--------------------------------------------------------------------------------------------] 2667/30654[1G[##########-------------------------------------------------------------------------------------------] 2933/30654[1G[##########-------------------------------------------------------------------------------------------] 3163/30654[1G[##########-------------------------------------------------------------------------------------------] 3169/30654[1G[##########-------------------------------------------------------------------------------------------] 3170/30654[1G[###########------------------------------------------------------------------------------------------] 3475/30654[1G[############-----------------------------------------------------------------------------------------] 3786/30654[1G[#############----------------------------------------------------------------------------------------] 3938/30654[1G[##############---------------------------------------------------------------------------------------] 4173/30654[1G[##############---------------------------------------------------------------------------------------] 4325/30654[1G[###############--------------------------------------------------------------------------------------] 4556/30654[1G[################-------------------------------------------------------------------------------------] 4808/30654[1G[################-------------------------------------------------------------------------------------] 4921/30654[1G[#################------------------------------------------------------------------------------------] 5162/30654[1G[##################-----------------------------------------------------------------------------------] 5445/30654[1G[##################-----------------------------------------------------------------------------------] 5558/30654[1G[###################----------------------------------------------------------------------------------] 5807/30654[1G[####################---------------------------------------------------------------------------------] 6055/30654[1G[####################---------------------------------------------------------------------------------] 6195/30654[1G[#####################--------------------------------------------------------------------------------] 6433/30654[1G[#####################--------------------------------------------------------------------------------] 6435/30654[1G[#####################--------------------------------------------------------------------------------] 6437/30654[1G[######################-------------------------------------------------------------------------------] 6558/30654[1G[######################-------------------------------------------------------------------------------] 6685/30654[1G[#######################------------------------------------------------------------------------------] 6990/30654[1G[########################-----------------------------------------------------------------------------] 7320/30654[1G[#########################----------------------------------------------------------------------------] 7581/30654[1G[##########################---------------------------------------------------------------------------] 7823/30654[1G[##########################---------------------------------------------------------------------------] 8021/30654[1G[###########################--------------------------------------------------------------------------] 8323/30654[1G[###########################--------------------------------------------------------------------------] 8325/30654[1G[###########################--------------------------------------------------------------------------] 8328/30654[1G[###########################--------------------------------------------------------------------------] 8330/30654[1G[###########################--------------------------------------------------------------------------] 8336/30654[1G[############################-------------------------------------------------------------------------] 8348/30654[1G[############################-------------------------------------------------------------------------] 8586/30654[1G[#############################------------------------------------------------------------------------] 8838/30654[1G[##############################-----------------------------------------------------------------------] 9114/30654[1G[###############################----------------------------------------------------------------------] 9462/30654[1G[################################---------------------------------------------------------------------] 9728/30654[1G[#################################-------------------------------------------------------------------] 10089/30654[1G[##################################------------------------------------------------------------------] 10361/30654[1G[###################################-----------------------------------------------------------------] 10723/30654[1G[####################################----------------------------------------------------------------] 11091/30654[1G[#####################################---------------------------------------------------------------] 11376/30654[1G[######################################--------------------------------------------------------------] 11629/30654[1G[#######################################-------------------------------------------------------------] 11815/30654[1G[#######################################-------------------------------------------------------------] 11865/30654[1G[#######################################-------------------------------------------------------------] 11866/30654[1G[#######################################-------------------------------------------------------------] 11962/30654[1G[########################################------------------------------------------------------------] 12117/30654[1G[#########################################-----------------------------------------------------------] 12445/30654[1G[#########################################-----------------------------------------------------------] 12664/30654[1G[##########################################----------------------------------------------------------] 12861/30654[1G[##########################################----------------------------------------------------------] 12985/30654[1G[###########################################---------------------------------------------------------] 13226/30654[1G[############################################--------------------------------------------------------] 13358/30654[1G[############################################--------------------------------------------------------] 13504/30654[1G[#############################################-------------------------------------------------------] 13712/30654[1G[#############################################-------------------------------------------------------] 13846/30654[1G[#############################################-------------------------------------------------------] 13854/30654[1G[#############################################-------------------------------------------------------] 13856/30654[1G[##############################################------------------------------------------------------] 13975/30654[1G[##############################################------------------------------------------------------] 14125/30654[1G[###############################################-----------------------------------------------------] 14274/30654[1G[###############################################-----------------------------------------------------] 14357/30654[1G[###############################################-----------------------------------------------------] 14455/30654[1G[################################################----------------------------------------------------] 14625/30654[1G[#################################################---------------------------------------------------] 14983/30654[1G[##################################################--------------------------------------------------] 15370/30654[1G[###################################################-------------------------------------------------] 15676/30654[1G[####################################################------------------------------------------------] 15873/30654[1G[####################################################------------------------------------------------] 15875/30654[1G[####################################################------------------------------------------------] 16000/30654[1G[####################################################------------------------------------------------] 16092/30654[1G[#####################################################-----------------------------------------------] 16309/30654[1G[######################################################----------------------------------------------] 16588/30654[1G[#######################################################---------------------------------------------] 16795/30654[1G[#######################################################---------------------------------------------] 16806/30654[1G[#######################################################---------------------------------------------] 16846/30654[1G[#######################################################---------------------------------------------] 16857/30654[1G[#######################################################---------------------------------------------] 16873/30654[1G[#######################################################---------------------------------------------] 16877/30654[1G[#######################################################---------------------------------------------] 16881/30654[1G[#######################################################---------------------------------------------] 16883/30654[1G[#######################################################---------------------------------------------] 17008/30654[1G[########################################################--------------------------------------------] 17290/30654[1G[##########################################################------------------------------------------] 17640/30654[1G[###########################################################-----------------------------------------] 17949/30654[1G[############################################################----------------------------------------] 18274/30654[1G[#############################################################---------------------------------------] 18664/30654[1G[##############################################################--------------------------------------] 19022/30654[1G[###############################################################-------------------------------------] 19309/30654[1G[################################################################------------------------------------] 19664/30654[1G[#################################################################-----------------------------------] 20009/30654[1G[##################################################################----------------------------------] 20266/30654[1G[###################################################################---------------------------------] 20542/30654[1G[####################################################################--------------------------------] 20784/30654[1G[#####################################################################-------------------------------] 21068/30654[1G[######################################################################------------------------------] 21318/30654[1G[######################################################################------------------------------] 21568/30654[1G[#######################################################################-----------------------------] 21814/30654[1G[########################################################################----------------------------] 21994/30654[1G[########################################################################----------------------------] 22217/30654[1G[#########################################################################---------------------------] 22427/30654[1G[##########################################################################--------------------------] 22642/30654[1G[###########################################################################-------------------------] 22850/30654[1G[###########################################################################-------------------------] 23074/30654[1G[############################################################################------------------------] 23171/30654[1G[############################################################################------------------------] 23449/30654[1G[##############################################################################----------------------] 23815/30654[1G[###############################################################################---------------------] 24192/30654[1G[################################################################################--------------------] 24582/30654[1G[#################################################################################-------------------] 24965/30654[1G[##################################################################################------------------] 25268/30654[1G[###################################################################################-----------------] 25495/30654[1G[####################################################################################----------------] 25799/30654[1G[#####################################################################################---------------] 26156/30654[1G[######################################################################################--------------] 26493/30654[1G[########################################################################################------------] 26923/30654[1G[########################################################################################------------] 27123/30654[1G[##########################################################################################----------] 27494/30654[1G[###########################################################################################---------] 27805/30654[1G[############################################################################################--------] 28146/30654[1G[#############################################################################################-------] 28462/30654[1G[##############################################################################################------] 28723/30654[1G[###############################################################################################-----] 29011/30654[1G[################################################################################################----] 29292/30654[1G[################################################################################################----] 29562/30654[1G[#################################################################################################---] 29787/30654[1G[##################################################################################################--] 30111/30654[1G[###################################################################################################-] 30434/30654[1G[####################################################################################################] 30654/30654[2K[1G[2K[1G[1G[---------------------------------------------------------------------------------------------------------] 0/2676[1G[#############------------------------------------------------------------------------------------------] 344/2676[1G[####################-----------------------------------------------------------------------------------] 528/2676[1G[######################---------------------------------------------------------------------------------] 580/2676[1G[########################-------------------------------------------------------------------------------] 620/2676[1G[##################################---------------------------------------------------------------------] 894/2676[1G[############################################################------------------------------------------] 1572/2676[1G[###############################################################################-----------------------] 2076/2676[1G[#####################################################################################################-] 2646/2676[1G[######################################################################################################] 2676/2676[2K[1G[2m[4/4][22m 🔨  Building fresh packages...
+[1G⠁ [0K[1G[2m[1/1][22m ⠂ fsevents[0K[1G[2m[1/1][22m ⠄ fsevents[0K[1G[2m[1/1][22m ⡀ fsevents[0K[1G[2m[1/1][22m ⢀ fsevents[0K[1G[2m[1/1][22m ⠠ fsevents[0K[1G[2m[1/1][22m ⠐ fsevents[0K[1G[2m[1/1][22m ⠈ fsevents[0K[1G[2m[1/1][22m ⠁ fsevents[0K[1G[2m[1/1][22m ⠂ fsevents[0K[1G[2m[1/1][22m ⠄ fsevents[0K[1G[2m[1/1][22m ⡀ fsevents[0K[1G[2m[1/1][22m ⢀ fsevents[0K[1G[2m[1/1][22m ⠠ fsevents[0K[1G[2m[1/1][22m ⠐ fsevents[0K[1G[2m[1/1][22m ⠈ fsevents[0K[1G[2m[1/1][22m ⠁ fsevents[0K[1G[2m[1/1][22m ⠂ fsevents[0K[1G[2m[1/1][22m ⠄ fsevents[0K[1G[2m[1/1][22m ⡀ fsevents[0K[1G[2m[1/1][22m ⢀ fsevents[0K[1G[2m[1/1][22m ⠠ fsevents[0K[1G[2m[1/1][22m ⠐ fsevents[0K[1G[2m[1/1][22m ⠈ fsevents[0K[1G[2m[1/1][22m ⠁ fsevents[0K[1G[2m[1/1][22m ⠂ fsevents[0K[1G[2m[1/1][22m ⠄ fsevents[0K[1G[2m[1/1][22m ⡀ fsevents[0K[1G[2m[1/1][22m ⢀ fsevents[0K[1G[2m[1/1][22m ⠠ fsevents[0K[1G[2m[1/1][22m ⠐ fsevents[0K[1G[2m[1/1][22m ⠈ fsevents[0K[1G[2m[1/1][22m ⠁ fsevents[0K[2K[1G[2K[1G[2K[1G✨  Done in 16.07s.
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hyyarn start[?1l>[?2004l
+]2;yarn start]1;yarn[2K[1G[1myarn run v1.13.0[22m
+[2K[1G[2m$ react-scripts start[22m
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+=============
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by typescript-estree.
+
+You may find that it works just fine, or you may not.
+
+SUPPORTED TYPESCRIPT VERSIONS: >=3.2.1 <3.5.0
+
+YOUR TYPESCRIPT VERSION: 3.5.3
+
+Please only submit bug reports when using the officially supported version.
+
+=============
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/index.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/index.tsx(3,46)[39m[22m[31m:[39m
+Could not find a declaration file for module 'react-router-dom'. '/Users/velizargenov/Repos/reference-list/node_modules/react-router-dom/index.js' implicitly has an 'any' type.
+  Try `npm install @types/react-router-dom` if it exists or add a new declaration (.d.ts) file containing `declare module 'react-router-dom';`  [31m[4mTS7016[24m[39m
+
+  [0m [90m 1 | [39m[36mimport[39m [33mReact[39m from [32m'react'[39m[33m;[39m[0m
+  [0m [90m 2 | [39m[36mimport[39m { render } from [32m'react-dom'[39m[33m;[39m[0m
+  [0m[31m[1m>[22m[39m[90m 3 | [39m[36mimport[39m { [33mBrowserRouter[39m[33m,[39m [33mRoute[39m[33m,[39m [33mSwitch[39m } from [32m'react-router-dom'[39m[33m;[39m[0m
+  [0m [90m   | [39m                                             [31m[1m^[22m[39m[0m
+  [0m [90m 4 | [39m[0m
+  [0m [90m 5 | [39m[36mimport[39m [32m'./index.css'[39m[33m;[39m[0m
+  [0m [90m 6 | [39m[36mimport[39m [33mApp[39m from [32m'./components/App/App'[39m[33m;[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/index.tsx[27m
+  [1mLine 11:[22m   'BrowserRouter' is not defined  [31m[4mreact/jsx-no-undef[24m[39m
+  [1mLine 12:[22m   'Switch' is not defined         [31m[4mreact/jsx-no-undef[24m[39m
+  [1mLine 13:[22m  'Route' is not defined          [31m[4mreact/jsx-no-undef[24m[39m
+  [1mLine 14:[22m  'Route' is not defined          [31m[4mreact/jsx-no-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/index.tsx[27m
+  [1mLine 7:[22m  'NotFound' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/App/App.tsx[27m
+  [1mLine 4:[22m  'ItemsList' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+[7m./src/index.tsx[27m
+  [1mLine 7:[22m  'NotFound' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/index.tsx[27m
+  [1mLine 7:[22m  'NotFound' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/index.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/index.tsx(3,46)[39m[22m[31m:[39m
+Could not find a declaration file for module 'react-router-dom'. '/Users/velizargenov/Repos/reference-list/node_modules/react-router-dom/index.js' implicitly has an 'any' type.
+  Try `npm install @types/react-router-dom` if it exists or add a new declaration (.d.ts) file containing `declare module 'react-router-dom';`  [31m[4mTS7016[24m[39m
+
+  [0m [90m 1 | [39m[36mimport[39m [33mReact[39m from [32m'react'[39m[33m;[39m[0m
+  [0m [90m 2 | [39m[36mimport[39m { render } from [32m'react-dom'[39m[33m;[39m[0m
+  [0m[31m[1m>[22m[39m[90m 3 | [39m[36mimport[39m { [33mBrowserRouter[39m[33m,[39m [33mRoute[39m[33m,[39m [33mSwitch[39m } from [32m'react-router-dom'[39m[33m;[39m[0m
+  [0m [90m   | [39m                                             [31m[1m^[22m[39m[0m
+  [0m [90m 4 | [39m[0m
+  [0m [90m 5 | [39m[36mimport[39m [32m'./index.css'[39m[33m;[39m[0m
+  [0m [90m 6 | [39m[36mimport[39m [33mApp[39m from [32m'./components/App/App'[39m[33m;[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/index.tsx[27m
+Module not found: Can't resolve '@types/react-router-dom' in '/Users/velizargenov/Repos/reference-list/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/index.tsx[27m
+Module not found: Can't resolve '@types/react-router-dom' in '/Users/velizargenov/Repos/reference-list/src'
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/ItemsList/ItemsList.tsx[27m
+  [1mLine 2:[22m  'data' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(8,6)[39m[22m[31m:[39m
+Property 'data' is missing in type '{}' but required in type 'ItemsListProps'.  [31m[4mTS2741[24m[39m
+
+  [0m [90m  6 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  7 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m  8 | [39m    [33m<[39m[33mItemsList[39m [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m     [31m[1m^[22m[39m[0m
+  [0m [90m  9 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 10 | [39m)[33m;[39m[0m
+  [0m [90m 11 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(8,6)[39m[22m[31m:[39m
+Property 'data' is missing in type '{}' but required in type 'ItemsListProps'.  [31m[4mTS2741[24m[39m
+
+  [0m [90m  6 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  7 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m  8 | [39m    [33m<[39m[33mItemsList[39m [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m     [31m[1m^[22m[39m[0m
+  [0m [90m  9 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 10 | [39m)[33m;[39m[0m
+  [0m [90m 11 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+[7m./src/components/ItemsList/ItemsList.tsx[27m
+  [1mLine 2:[22m  'data' is defined but never used  [33m[4m@typescript-eslint/no-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/ItemsList/ItemsList.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/ItemsList/ItemsList.tsx(8,31)[39m[22m[31m:[39m
+Property 'map' does not exist on type 'object'.  [31m[4mTS2339[24m[39m
+
+  [0m [90m  6 | [39m[0m
+  [0m [90m  7 | [39m[36mconst[39m [33mItemsList[39m[33m:[39m [33mReact[39m[33m.[39m[33mFC[39m[33m<[39m[33mItemsListProps[39m[33m>[39m [33m=[39m ({ data }) [33m=>[39m ([0m
+  [0m[31m[1m>[22m[39m[90m  8 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'grid'[39m[33m>[39m{data[33m.[39mmap(item [33m=>[39m console[33m.[39mlog(item))}[33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+  [0m [90m  9 | [39m)[33m;[39m[0m
+  [0m [90m 10 | [39m[0m
+  [0m [90m 11 | [39m[36mexport[39m [36mdefault[39m [33mItemsList[39m[33m;[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m./src/components/ItemsList/ItemsList.tsx[27m
+  [1mLine 7:[22m  Parsing error: ')' expected
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/ItemsList/ItemsList.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/ItemsList/ItemsList.tsx(8,31)[39m[22m[31m:[39m
+Property 'map' does not exist on type 'PropsWithChildren<ItemsListProps>'.  [31m[4mTS2339[24m[39m
+
+  [0m [90m  6 | [39m[0m
+  [0m [90m  7 | [39m[36mconst[39m [33mItemsList[39m[33m:[39m [33mReact[39m[33m.[39m[33mFC[39m[33m<[39m[33mItemsListProps[39m[33m>[39m [33m=[39m (data) [33m=>[39m ([0m
+  [0m[31m[1m>[22m[39m[90m  8 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'grid'[39m[33m>[39m{data[33m.[39mmap(item [33m=>[39m console[33m.[39mlog(item))}[33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m    | [39m                              [31m[1m^[22m[39m[0m
+  [0m [90m  9 | [39m)[33m;[39m[0m
+  [0m [90m 10 | [39m[0m
+  [0m [90m 11 | [39m[36mexport[39m [36mdefault[39m [33mItemsList[39m[33m;[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(10,16)[39m[22m[31m:[39m
+Type '{ item: string; }[]' is not assignable to type '[]'.
+  Types of property 'length' are incompatible.
+    Type 'number' is not assignable to type '0'.  [31m[4mTS2322[24m[39m
+
+  [0m [90m  8 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  9 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m 10 | [39m    [33m<[39m[33mItemsList[39m data[33m=[39m{data} [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m               [31m[1m^[22m[39m[0m
+  [0m [90m 11 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 12 | [39m)[33m;[39m[0m
+  [0m [90m 13 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(10,16)[39m[22m[31m:[39m
+Type '{ item: string; }[]' is not assignable to type 'string[]'.
+  Type '{ item: string; }' is not assignable to type 'string'.  [31m[4mTS2322[24m[39m
+
+  [0m [90m  8 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  9 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m 10 | [39m    [33m<[39m[33mItemsList[39m data[33m=[39m{data} [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m               [31m[1m^[22m[39m[0m
+  [0m [90m 11 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 12 | [39m)[33m;[39m[0m
+  [0m [90m 13 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(10,6)[39m[22m[31m:[39m
+Type '{ data: { item: string; }[]; }' is not assignable to type 'IntrinsicAttributes & ItemsListProps & { children?: ReactNode; }'.
+  Property 'data' does not exist on type 'IntrinsicAttributes & ItemsListProps & { children?: ReactNode; }'.  [31m[4mTS2322[24m[39m
+
+  [0m [90m  8 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  9 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m 10 | [39m    [33m<[39m[33mItemsList[39m data[33m=[39m{data} [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m     [31m[1m^[22m[39m[0m
+  [0m [90m 11 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 12 | [39m)[33m;[39m[0m
+  [0m [90m 13 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(10,6)[39m[22m[31m:[39m
+Type '{ data: { item: string; }[]; }' is not assignable to type 'IntrinsicAttributes & Data & { children?: ReactNode; }'.
+  Property 'data' does not exist on type 'IntrinsicAttributes & Data & { children?: ReactNode; }'.  [31m[4mTS2322[24m[39m
+
+  [0m [90m  8 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  9 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m 10 | [39m    [33m<[39m[33mItemsList[39m data[33m=[39m{data} [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m     [31m[1m^[22m[39m[0m
+  [0m [90m 11 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 12 | [39m)[33m;[39m[0m
+  [0m [90m 13 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/components/App/App.tsx(10,6)[39m[22m[31m:[39m
+Type '{ data: { item: string; }[]; }' is not assignable to type 'IntrinsicAttributes & Data & { children?: ReactNode; }'.
+  Property 'data' does not exist on type 'IntrinsicAttributes & Data & { children?: ReactNode; }'.  [31m[4mTS2322[24m[39m
+
+  [0m [90m  8 | [39m[36mconst[39m [33mApp[39m [33m=[39m () [33m=>[39m ([0m
+  [0m [90m  9 | [39m  [33m<[39m[33mdiv[39m className[33m=[39m[32m'app'[39m[33m>[39m[0m
+  [0m[31m[1m>[22m[39m[90m 10 | [39m    [33m<[39m[33mItemsList[39m data[33m=[39m{data} [33m/[39m[33m>[39m[0m
+  [0m [90m    | [39m     [31m[1m^[22m[39m[0m
+  [0m [90m 11 | [39m  [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+  [0m [90m 12 | [39m)[33m;[39m[0m
+  [0m [90m 13 | [39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mFiles successfully emitted, waiting for typecheck results...[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mmy-app[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m/
+  [1mOn Your Network:[22m  http://192.168.0.12:[1m3000[22m/
+
+Note that the development build is not optimized.
+To create a production build, use [36myarn build[39m.
+
+ç^C
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004h[H[2J[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76Dccode.  .[?1l>[?2004l
+]2;code .]1;code[1m[7m%[27m[1m[0m                                                                                                                   ]2;velizargenov@velizargenov: ~/Repos/reference-list/src]1;..ence-list/src[0m[27m[24m[J[38;5;237m------------------------------------------------------------[00m
+[38;5;032m~/Repos/reference-list/src[38;5;075m([38;5;078mmaster[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[51C[38;5;237mvelizargenov@velizargenov[00m[76D[?1h=[?2004hyyarn start[?1l>[?2004l
+]2;yarn start]1;yarn[2K[1G[1myarn run v1.13.0[22m
+[2K[1G[2m$ react-scripts start[22m
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+=============
+
+WARNING: You are currently running a version of TypeScript which is not officially supported by typescript-estree.
+
+You may find that it works just fine, or you may not.
+
+SUPPORTED TYPESCRIPT VERSIONS: >=3.2.1 <3.5.0
+
+YOUR TYPESCRIPT VERSION: 3.5.3
+
+Please only submit bug reports when using the officially supported version.
+
+=============
+[2J[3J[H[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+[7m/Users/velizargenov/Repos/reference-list/src/interfaces/ItemsList.interface.ts[27m
+[31m[1mTypeScript error in [22m[39m[1m[36m/Users/velizargenov/Repos/reference-list/src/interfaces/ItemsList.interface.ts(1,1)[39m[22m[31m:[39m
+Declaration or statement expected.  [31m[4mTS1128[24m[39m
+
+  [0m[31m[1m>[22m[39m[90m 1 | [39m[36mexport[39m[0m
+  [0m [90m   | [39m[31m[1m^[22m[39m[0m
