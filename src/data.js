@@ -87,6 +87,11 @@ const data = [
           'Each element consists of: a node to store the element; pointer to the next element',
           'Real life example: train'
         ],
+        types: [
+          'Normal Linked List',
+          'Doubly Linked List',
+          'Circular Linked List'
+        ],
         pros: [
           'No need to shift elements over when adding or removing other elemwents as opposed to array',
           'The size of linked list is not fixed as opposed to an array',
@@ -105,6 +110,46 @@ const data = [
           'size',
           'toString',
           'print',
+        ]
+      }
+    ]
+  },
+  { // SETS
+    group: 'Data Structures',
+    topic: 'Sets',
+    description: "",
+    codesandbox: 'https://codesandbox.io/s/cocky-montalcini-0ldxc',
+    sections: [
+      {
+        description: [
+          '',
+        ],
+        types: [
+          'Normal Linked List',
+          'Doubly Linked List',
+          'Circular Linked List'
+        ],
+        pros: [
+          'No need to shift elements over when adding or removing other elemwents as opposed to array',
+          'The size of linked list is not fixed as opposed to an array',
+          'Adding and Removing elements is fast as opposed to an array'
+        ],
+        cons: [
+          'Accessing a middle element in a linked list is expensive',
+        ],
+        methods: [
+          'add(value)',
+          'delete(value)',
+          'has(value)',
+          'clear()',
+          'size()',
+          'values()',
+        ],
+        operations: [
+          'union',
+          'intersection',
+          'difference',
+          'subset'
         ]
       }
     ]
