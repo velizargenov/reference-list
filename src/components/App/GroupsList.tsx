@@ -25,7 +25,7 @@ class GroupsList extends React.Component<Props, State> {
   }
 
   getGroups() {
-    const groups: string[] = data.reduce((acc: string[], cur) => acc && !acc.includes(cur.group) ? [...acc, cur.group] : acc, [])
+    const groups: string[] = data.reduce((acc: string[], cur) => acc && !acc.includes(cur.group.trim().toLowerCase()) ? [...acc, cur.group.trim().toLowerCase()] : acc, [])
     this.setState({ groups })
   }
 
