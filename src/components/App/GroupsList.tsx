@@ -1,6 +1,6 @@
 import React from 'react';
 
-import data from '../../data';
+import data from '../../data/data';
 import Button from '../Button/Button';
 
 interface Props {}

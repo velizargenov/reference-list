@@ -2,7 +2,7 @@ import React from 'react';
 import { RouteComponentProps } from "react-router";
 import { withRouter } from "react-router";
 
-import data from '../../data';
+import data from '../../data/data';
 import Button from '../Button/Button';
 
 interface Props extends RouteComponentProps<any> {}

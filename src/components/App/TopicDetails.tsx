@@ -2,7 +2,7 @@ import React from 'react';
 import { RouteComponentProps } from "react-router";
 import { withRouter } from "react-router";
 
-import data from '../../data';
+import data from '../../data/data';
 
 interface Props extends RouteComponentProps<any> {}
 
@@ -12,7 +12,7 @@ interface State {
     group: '',
     topic: string
     description: string,
-    codesandbox: string,
+    cs: object,
     sections: string[]
   }
 }
@@ -26,7 +26,7 @@ class TopicDetails extends React.Component<Props, any> {
         group: '',
         topic: '',
         description: '',
-        codesandbox: '',
+        cs: {},
         sections: []
       }
     }
@@ -64,7 +64,7 @@ class TopicDetails extends React.Component<Props, any> {
   }
 
   render() {
-    const { group, topic, description, sections, codesandbox } = this.state.item;
+    const { group, topic, description, sections, cs } = this.state.item;
 
     return (
       <div className="groups">
@@ -75,12 +75,10 @@ class TopicDetails extends React.Component<Props, any> {
           <div>
             {
               sections.map((item, index) => {
-                console.log(item)
                 return (
                   <div key={index}>
                     {
                       Object.keys(item).map((el, index) => {
-                        console.log(item[el])
                         return (
                           <div key={index}>
                             <h3>{el.toUpperCase()}</h3>
@@ -100,7 +98,16 @@ class TopicDetails extends React.Component<Props, any> {
           </div>
           <div>
             <h1>Implementation</h1>
-            <iframe src={`${codesandbox}?fontsize=1&previewwindow=console&view=split&codemirror=0&hidenavigation=1`} className="iframe" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+            {
+              Object.keys(cs).map((item, index) => {
+                return (
+                  <div>
+                    <h2>{item.toUpperCase()}</h2>
+                    <iframe key={index} src={`${cs[item]}?fontsize=1&previewwindow=console&view=split&codemirror=0&hidenavigation=1`} className="iframe" sandbox="allow-modals allow-forms allow-popups allow-scripts allow-same-origin"></iframe>
+                  </div>
+                )
+              })
+            }
           </div>
         </div>
       </div>
