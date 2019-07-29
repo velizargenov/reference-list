@@ -1,17 +1,14 @@
 const algorithms = [
-  { // TEMPLATE
+  { //
     group: 'Algorithms',
-    topic: 'Template',
+    topic: '',
     description: "",
     cs: {
-      algorithm: 'https://codesandbox.io/s/queues-9jbk3'
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
     },
     sections: [
       {
         description: [
-          ''
-        ],
-        methods: [
           ''
         ]
       }
@@ -116,6 +113,30 @@ const algorithms = [
           '> divide the original array into smaller arrays until each small array has only one position',
           '> then merge these smaller arrays into bigger ones',
           '> until we have a single big array at the end that is sorted'
+        ]
+      }
+    ]
+  },
+
+  { // QUICK SORT
+    group: 'Algorithms',
+    topic: 'Quick Sort',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'The most used sorting algorithm',
+          'It has a complexity of O(n log n)',
+          'It uses the divide-and-conquer approach',
+          'It divides the original array into smaller ones, but without splitting them as the merge sort does'
+        ],
+        steps: [
+          '1. We need to select an item from the array called pivot, which is the middle item in the array',
+          '2. We create left (first item of array) and right pointers (last item of array)',
+          '3. The algorithm repeats the previous two steps for smaller arrays until the arrays are completely sorted'
         ]
       }
     ]
