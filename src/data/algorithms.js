@@ -56,6 +56,70 @@ const algorithms = [
     ]
   },
 
+  { // SELECTION SORT
+    group: 'Algorithms',
+    topic: 'Selection Sort',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'In-place comparison sort algorithm',
+          '> Find the minimum value in the data structure',
+          '> Place it in the first position',
+          '> Then find the second minimum value, place it in second position',
+          '> and so on'
+        ]
+      }
+    ]
+  },
+
+  { // INSERTION SORT
+    group: 'Algorithms',
+    topic: 'Insertion Sort',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'It builds the final sorted array one item at a time',
+          '> it assumes that the first element is already sorted',
+          '> then a comparison with the second item is performed',
+          '> the algorithm decides wheather the second item stay in its place or be inserted before',
+          '> in this way the first two items will get sorted',
+          '> then the comparison with the third item will take place',
+          '> and so on',
+          'The insertion sort has a better performance that the Bubble and Selection algorithms when sorting small arrays'
+        ]
+      }
+    ]
+  },
+
+  { // MERGE SORT
+    group: 'Algorithms',
+    topic: 'Merge Sort',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'First sorting algorithm that can be used in the real world',
+          'It provides a good performance with complexity O(n log n)',
+          'Divide-and-conquer algorithm',
+          'This algorithm is recursive',
+          '> divide the original array into smaller arrays until each small array has only one position',
+          '> then merge these smaller arrays into bigger ones',
+          '> until we have a single big array at the end that is sorted'
+        ]
+      }
+    ]
+  },
 
 ];
 
