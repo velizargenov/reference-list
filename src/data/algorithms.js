@@ -204,6 +204,27 @@ const algorithms = [
     ]
   },
 
+  { // MIN-COIN PROBLEM - GREEDY ALGORITHM
+    group: 'Algorithms',
+    topic: 'Min-coin (Greedy) Problem',
+    description: "",
+    cs: {
+      minCoinProblem: 'https://codesandbox.io/s/amazing-platform-s16zu'
+    },
+    sections: [
+      {
+        greedyAlgorithms: [
+          'A greedy algorithm follows the problem-solving heuristic of making the locally optimal choice (the best solution at the time) at each stage with the hope of finding a global optimum (global best solution)',
+          'It does not evaluate the bigger picture like a dynamic programming algorithm does'
+        ],
+        description: [
+          'The problem consists of finding how many different ways we can make change in a particular amount of cents using a given amount of set denominations d1...dn',
+          'The problem can be solved as an implementation of a greedy algorithm or as an implementation of a dynamic programming'
+        ]
+      }
+    ]
+  },
+
 ];
 
 export default algorithms;
