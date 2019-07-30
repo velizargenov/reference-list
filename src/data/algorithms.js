@@ -142,6 +142,45 @@ const algorithms = [
     ]
   },
 
+  { // HEAP SORT
+    group: 'Algorithms',
+    topic: 'Heap Sort',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'It sorts the array as if it were a binary tree',
+          'To do that, we need to manage the array as a binary tree considering the following information:',
+          '> Index 0 is the root of the tree',
+          '> The parent of any node N is N/2 (with the exception of the root node)',
+          '> The left-hand side child of a node L is 2*L',
+          '> The right-hand child of a node R is 2*R+1'
+        ]
+      }
+    ]
+  },
+
+  { // SEQUENTIAL SEARCH
+    group: 'Algorithms',
+    topic: 'Sequential Search',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'It is also called linear search and it is the most basic search algorithm',
+          'It consists of comparing each element of the data structure with the one we are looking for',
+          'It is the most inefficient search algorithm'
+        ]
+      }
+    ]
+  },
+
 ];
 
 export default algorithms;
