@@ -181,6 +181,29 @@ const algorithms = [
     ]
   },
 
+  { // BINARY SEARCH
+    group: 'Algorithms',
+    topic: 'Binary Search',
+    description: "",
+    cs: {
+      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
+    },
+    sections: [
+      {
+        description: [
+          'It works on a similar principle as the "Number guessing game"',
+          'In order to the algorithm to work, the data structure needs to be sorted first'
+        ],
+        execution: [
+          '> A value is selected in the middle of the array',
+          '> If the value is the one we are looking for, we\'re done',
+          '> If the value we\'re looking for is less than the selected one, then we will go to the left (lower) and will execute step 1',
+          '> If the value we\'re looking for is less than the selected one, then we will go to the right and (higher) will execute step 1',
+        ]
+      }
+    ]
+  },
+
 ];
 
 export default algorithms;
