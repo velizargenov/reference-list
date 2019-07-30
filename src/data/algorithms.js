@@ -1,20 +1,12 @@
-const algorithms = [
-  { //
-    group: 'Algorithms',
-    topic: '',
-    description: "",
-    cs: {
-      algorithm: 'https://codesandbox.io/s/stupefied-merkle-18y20'
-    },
-    sections: [
-      {
-        description: [
-          ''
-        ]
-      }
-    ]
-  },
+import improvedBubbleSort from '../images/improvedBubbleSort.png';
+import selectionSort from '../images/selectionSort.png';
+import insertionSort from '../images/insertionSort.png';
+import mergeSort from '../images/mergeSort.png';
+import quickSort from '../images/quickSort.png';
+import sequentialSearch from '../images/sequentialSearch.png';
+import binarySearch from '../images/binarySearch.png';
 
+const algorithms = [
   { // BREADTH-FIRST SEARCH (BFS)
     group: 'Algorithms',
     topic: 'Breadth-First Search (BFS)',
@@ -50,7 +42,8 @@ const algorithms = [
           'It works by comparing every 2 adjacent items and swapping them if the first > second'
         ]
       }
-    ]
+    ],
+    diagram: improvedBubbleSort
   },
 
   { // SELECTION SORT
@@ -70,7 +63,8 @@ const algorithms = [
           '> and so on'
         ]
       }
-    ]
+    ],
+    diagram: selectionSort
   },
 
   { // INSERTION SORT
@@ -93,7 +87,8 @@ const algorithms = [
           'The insertion sort has a better performance that the Bubble and Selection algorithms when sorting small arrays'
         ]
       }
-    ]
+    ],
+    diagram: insertionSort
   },
 
   { // MERGE SORT
@@ -115,7 +110,8 @@ const algorithms = [
           '> until we have a single big array at the end that is sorted'
         ]
       }
-    ]
+    ],
+    diagram: mergeSort
   },
 
   { // QUICK SORT
@@ -139,7 +135,8 @@ const algorithms = [
           '3. The algorithm repeats the previous two steps for smaller arrays until the arrays are completely sorted'
         ]
       }
-    ]
+    ],
+    diagram: quickSort
   },
 
   { // HEAP SORT
@@ -160,7 +157,8 @@ const algorithms = [
           '> The right-hand child of a node R is 2*R+1'
         ]
       }
-    ]
+    ],
+    diagram: ''
   },
 
   { // SEQUENTIAL SEARCH
@@ -178,7 +176,8 @@ const algorithms = [
           'It is the most inefficient search algorithm'
         ]
       }
-    ]
+    ],
+    diagram: sequentialSearch
   },
 
   { // BINARY SEARCH
@@ -201,7 +200,8 @@ const algorithms = [
           '> If the value we\'re looking for is less than the selected one, then we will go to the right and (higher) will execute step 1',
         ]
       }
-    ]
+    ],
+    diagram: binarySearch
   },
 
   { // MIN-COIN PROBLEM - GREEDY ALGORITHM

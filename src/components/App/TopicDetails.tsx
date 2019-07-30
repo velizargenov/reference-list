@@ -7,7 +7,6 @@ import data from '../../data/data';
 interface Props extends RouteComponentProps<any> {}
 
 interface State {
-  // item: { [key: string]: string };
   item: {
     group: '',
     topic: string
@@ -64,7 +63,9 @@ class TopicDetails extends React.Component<Props, any> {
   }
 
   render() {
-    const { group, topic, description, sections, cs } = this.state.item;
+    const { group, topic, description, sections, cs, diagram } = this.state.item;
+
+    console.log('diagram: ', diagram)
 
     return (
       <div className="groups">
@@ -80,8 +81,8 @@ class TopicDetails extends React.Component<Props, any> {
                     {
                       Object.keys(item).map((el, index) => {
                         return (
-                          <div key={index}>
-                            <h3>{el.toUpperCase()}</h3>
+                          <div key={index} className="section">
+                            <h2>{el.toUpperCase()}</h2>
                             <ul>
                               {
                                 item[el].map((el, i) => <li key={i}>{el}</li>)
@@ -95,6 +96,7 @@ class TopicDetails extends React.Component<Props, any> {
                 )
               })
             }
+            {diagram && <img src={diagram} /> }
           </div>
           <div>
             <h1>Implementation</h1>
