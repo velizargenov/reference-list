@@ -205,11 +205,35 @@ const dataStructures = [
     sections: [
       {
         description: [
-          '',
-
+          'Abstract model of hierarchical structure',
+          'It lets you store nodes with lesser values on the left hand side and higher values on the right',
+          'Real life example: family tree or company organizational chart',
+          'Trees are largely used in Computer Science',
+          'Consists of nodes with parent-child relationship',
+          'Each node has a parent (except the first one) and 0 or more children'
+        ],
+        components: [
+          'root - the top node',
+          'internal node - it has at least one child',
+          'a node in a binary tree has two children at the most',
+          'external node (leaf) - it has no children',
+          'ancestors - parent, grand-parent, grand-grand-parent',
+          'descendants - child, grand-child',
+          'subtree - consists of a node and its descendants',
+          'pointers - used to represent the connection between the nodes',
+          'depth of a tree - consists of the number of ancestors',
+          'height of a tree - consists of the maximin dept of any node',
+          'tree level - level 0 is the root; children on level 1 etc.'
         ],
         methods: [
-          '',
+          'insert(key)',
+          'search(key)',
+          'inOrderTraverse()',
+          'preOrderTraverse()',
+          'postOrderTraverse()',
+          'min()',
+          'max()',
+          'remove()'
         ]
       }
     ]
